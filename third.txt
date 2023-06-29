@@ -1,2 +1,6 @@
 This is third text file.
+
+This line added in feature branch in local repo
+
 Changes Made in Remote Repo
+
